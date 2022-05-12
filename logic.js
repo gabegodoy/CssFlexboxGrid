@@ -10,4 +10,5 @@ for (var i = 0; i < menuLink.length; i++){
   menuLink[i].addEventListener("click", function(){
     menu.classList.toggle('menu-lateral--ativo')
   })
+
 }
